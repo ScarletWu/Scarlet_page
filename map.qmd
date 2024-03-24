@@ -1,0 +1,34 @@
+---
+title: "Traveling"
+format: html
+---
+
+# I like traveling. I have been to ...
+
+```{r}
+#| echo: false
+library(leaflet)
+
+places <- data.frame(
+  city = c("Tokyo", "Osaka", "Bangkok", "Ko Samui", "Chiang Mai", 
+           "Los Angeles", "Las Vegas", "Texas", "Pittsburgh", "Washington DC", 
+           "New York", "Singapore", "Kuala Lumpur", "Bali", 
+           "Beijing", "Tianjin", "Hangzhou", "Suzhou", "Xinjiang", "Yunnan", 
+           "Wuhan", "Vancouver", "Quebec", "Montreal"),
+  lat = c(35.682839, 34.693738, 13.756331, 9.512017, 18.788344, 
+          34.052235, 36.169941, 31.968599, 40.440624, 38.907192, 
+          40.712776, 1.290270, 3.139003, -8.340539, 
+          39.904200, 39.343357, 30.274085, 31.298974, 41.798569, 24.475285, 
+          30.592849, 49.282729, 46.813878, 45.501689),
+  lng = c(139.759455, 135.502253, 100.501765, 100.014977, 98.981716, 
+          -118.243685, -115.139830, -99.901813, -79.995886, -77.036870, 
+          -74.0060, 103.819836, 101.686855, 115.091951, 
+          116.407396, 117.214448, 120.155070, 120.585289, 87.617733, 101.343106, 
+          114.305393, -123.120738, -71.208225, -73.567256)
+)
+
+leaflet(data = places) %>% 
+  addTiles() %>%  
+  addMarkers(~lng, ~lat, popup = ~city)
+```
+

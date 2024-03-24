@@ -8,8 +8,11 @@ website:
     left:
       - href: index.qmd
         text: Bio
+      - href: map.qmd
+        text: Traveling
       - href: about.qmd
         text: CV
+      
 
 format:
   html:
