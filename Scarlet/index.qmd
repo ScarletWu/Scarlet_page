@@ -1,12 +1,11 @@
 ---
-<<<<<<< HEAD:index.qmd
 title: "Scarlet Wu"
 format: html
 ---
 
 # 👋 Hi, I’m @ScarletWu
 
-![Scarlet Wu](/cloud/project/elements/logo.jpeg)
+![Scarlet Wu](/cloud/project/Scarlet/elements/logo.jpeg)
 
 I am a Bachelor of Science (Honours) student at the University of Toronto, majoring in Physiology with a minor in Statistics. With a passion for both the biological sciences and data analysis, I am eager to bridge these fields through my work.
 
@@ -35,9 +34,3 @@ She/Her
 Beyond the lab and code, I find harmony in music as a cellist. This creative outlet not only enriches my life but also reminds me of the beauty in collaboration and the symphony of bringing diverse elements together – much like in interdisciplinary research.
 
 
-=======
-title: "Know more about Me"
-format: html
----
-[Download My CV](/cloud/project/Scarlet/elements/CV.pdf)
->>>>>>> d5f777b263e8bf953e27246dab25303d167edfe7:Scarlet/about.qmd
