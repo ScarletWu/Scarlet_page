@@ -1,6 +1,7 @@
 ---
 title: "Traveling"
 format: html
+toc: false
 ---
 
 # I like traveling. I have been to ...
