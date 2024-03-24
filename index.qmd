@@ -1,9 +1,9 @@
 ---
-title: "Scarlet Wu"
+title: "👋 Hi, I’m ScarletWu"
 format: html
 ---
 
-# 👋 Hi, I’m @ScarletWu
+
 
 ![Scarlet Wu](/cloud/project/elements/logo.jpeg)
 
