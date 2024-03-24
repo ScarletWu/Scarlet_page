@@ -2,4 +2,4 @@
 title: "If you wan to know more about me"
 ---
 
-\[Please download my CV\](/cloud/project/Scarlet_web/elements/CV.pdf)
+[Download My CV](/cloud/project/elements/CV.pdf)
