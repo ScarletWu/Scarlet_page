@@ -5,7 +5,7 @@ format: html
 
 # 👋 Hi, I’m @ScarletWu
 
-![Scarlet Wu](/cloud/project/Scarlet/elements/logo.jpeg)
+![Scarlet Wu](/cloud/project/elements/logo.jpeg)
 
 I am a Bachelor of Science (Honours) student at the University of Toronto, majoring in Physiology with a minor in Statistics. With a passion for both the biological sciences and data analysis, I am eager to bridge these fields through my work.
 
