@@ -3,4 +3,4 @@ title: "If you wan to know more about me"
 format: html
 ---
 
-[Download My CV](/cloud/project/elements/CV.pdf)
+[Download My CV](/elements/CV.pdf){download='Scarlet_CV.pdf'}
