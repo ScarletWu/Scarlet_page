@@ -1,5 +1,5 @@
 ---
-title: "About Me - Scarlet Wu"
+title: "Scarlet Wu"
 format: html
 ---
 
@@ -33,4 +33,4 @@ She/Her
 
 Beyond the lab and code, I find harmony in music as a cellist. This creative outlet not only enriches my life but also reminds me of the beauty in collaboration and the symphony of bringing diverse elements together – much like in interdisciplinary research.
 
-[Download My CV](/cloud/project/Scarlet/elements/CV.pdf)
+
