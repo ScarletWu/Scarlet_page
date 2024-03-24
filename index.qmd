@@ -1,5 +1,5 @@
 ---
-title: "👋 Hi, I’m ScarletWu"
+title: "👋 Hi, I’m Scarlet Wu"
 format: html
 ---
 
