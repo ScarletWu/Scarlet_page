@@ -5,7 +5,7 @@ format:
     toc: false
 ---
 
-# I like traveling. I have been to ...
+I like traveling. I have been to ...
 
 ```{r}
 #| echo: false
