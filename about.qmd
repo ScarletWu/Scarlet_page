@@ -1,5 +1,6 @@
 ---
 title: "If you wan to know more about me"
+format: html
 ---
 
 [Download My CV](/cloud/project/elements/CV.pdf)

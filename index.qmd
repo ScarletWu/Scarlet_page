@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD:index.qmd
 title: "Scarlet Wu"
 format: html
 ---
