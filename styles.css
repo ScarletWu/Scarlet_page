@@ -1,1 +1,5 @@
 /* css styles */
+/* Change the navbar background color */
+.navbar {
+  background-color: #ffb6c1 !important; /* Light pink color */
+}
